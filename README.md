@@ -1,3 +1,4 @@
+[Profile Banner](Profile%20Banner.png)
 <h1 align="center">Hi 👋, I'm Fitriyana</h1>
 <h3 align="center">Machine Learning & Data Enthusiast</h3>
 
