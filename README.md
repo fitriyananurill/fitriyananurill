@@ -21,4 +21,4 @@ Excel | Power BI | Tableau | MySQL | Google BigQuery | Google Sheet | Git | VS C
 
 ## 📫 Connect With Me
 - LinkedIn: [fitriyana nuril khaqqi](https://linkedin.com/in/fitriyananurilkh)
-- Email: fitriyanank@gmail.com
+- Email: fitriyananurilkh@gmail.com
