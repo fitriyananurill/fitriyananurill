@@ -1,4 +1,4 @@
-![Profile Banner](Profile%20Banner.png)
+![Profile Banner](Banner.png)
 
 ---
 
