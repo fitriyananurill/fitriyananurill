@@ -15,7 +15,7 @@
 Python | R | SQL | Java | JavaScript | HTML | CSS | PHP
 
 ### 📊 Tools
-Excel | Power BI | Tableau | MySQL | Google BigQuery | Google Sheet | Git | VS Code | RStudio | Jupyter Notebook
+Excel | Power BI | Tableau | MySQL | Google BigQuery | Google Sheet | Git | Azure ML | VS Code | RStudio | Jupyter Notebook
 
 ---
 
